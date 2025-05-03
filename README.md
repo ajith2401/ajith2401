@@ -1,45 +1,43 @@
-<h1 align="center">Hi 👋, I'm Ajithkumar R</h1>
-<p align="center">
-  🚀 Full Stack Developer | Problem Solver | Chatbot Builder
-</p>
+# Hi there, I'm Ajithkumar R 👋
 
-<p align="center">
-  <a href="https://www.ajithkumarr.com">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/ajithkumar-r-a6531a232/">LinkedIn</a> |
-  <a href="mailto:ajith24ram@gmail.com">Email</a> |
-  <a href="https://github.com/ajith2401">GitHub</a>
-</p>
+## Full Stack Developer | MERN Specialist | Problem Solver
 
----
+I'm a passionate full stack developer with expertise in building scalable web applications, RESTful APIs, and interactive user interfaces. Winner of GovTechThon for developing India's first WhatsApp bot for government scheme dissemination.
 
 ### 🔭 Current Focus
-- Building scalable EdTech platforms at [OneVarsity](https://onevarsity.in)
-- Experimenting with AI/ML and ChatGPT-based bots
-- Optimizing bulk data processing and backend performance
 
-### 💡 Projects
-- 👨‍🍳 [Recipe Hub](https://recipe.ajithkumarr.com) - Social cooking platform with real-time chat, OAuth, and media sharing
-- 🤖 [Kural Book Bot](https://t.me/Kural_book_bot) - Telegram bot for instant Thirukkural delivery
-- 🗣️ [Gov Schemes Bot](https://wa.link/255qzf) - Award-winning WhatsApp bot for citizen services (GovTechThon Winner)
-
-### 🏆 Achievements
-- 🥇 **GovTechThon Winner** out of 500+ teams – Awarded ₹1 Lakh
-- 📰 Featured in *The Hindu* and *New Indian Express*
-- 💬 Built multilingual bots in Tamil, English & Hindi for accessibility
+- Building robust and scalable full stack applications with MERN stack
+- Developing chatbots and conversational interfaces
+- Optimizing database performance and API architectures
+- Creating accessible and responsive user interfaces
 
 ### 🛠️ Tech Stack
-**Frontend:** React, Next.js, Redux, TailwindCSS  
-**Backend:** Node.js, Express, Flask, MongoDB  
-**Tools:** Git, AWS SES, JWT, Razorpay, Dialogflow  
-**Learning:** Jest, React Testing Library
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajith2401&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=ajith2401&theme=radical" />
-</p>
+**Frontend:** React.js, Next.js, Redux, TailwindCSS, Material UI  
+**Backend:** Node.js, Express.js, MongoDB, Flask, Python  
+**DevOps:** Git, AWS, CI/CD, Firebase  
+**Tools:** JWT Authentication, REST APIs, Webpack  
+**UI/UX:** Responsive Design, Accessibility Standards  
+
+### 🏆 Achievements
+
+- **GovTechThon Winner** - Developed India's first WhatsApp bot for government scheme dissemination
+- **Full Stack Innovation** - Built comprehensive web and WhatsApp chatbot solutions with multilingual capabilities
+- **Data Migration Expert** - Successfully managed large-scale data migration for 19,000+ users
+- **Mentorship** - Guided junior developers in chatbot development and best practices
+
+### 📊 GitHub Stats
+
+![Ajithkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajith2401&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajith2401&layout=compact&theme=radical)
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajithkumar-r-a6531a232/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.ajithkumarr.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajith24ram@gmail.com)
 
 ---
 
-> 🧠 “Code for impact, build for scale.”
-
+> 💡 "Code for impact, build for scale, design for users."
